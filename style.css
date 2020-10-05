@@ -3,3 +3,31 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  color: red;
+}
+
+#featured-property {
+  margin: auto;
+}
+
+a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background: gold;
+}
+
+#featured-property > p {
+  width: 800px;
+}
+
+#details {
+  display: block;
+}
+
+* {
+  background: red;
+  text-align: center;  
+  width: 25%;
+}
